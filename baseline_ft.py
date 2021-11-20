@@ -282,7 +282,7 @@ def train(train_loader, model, criterion, optimizer, privacy_engine, epoch):
                     epoch, i, len(train_loader), end-start, loss=losses, top1=top1))
             start = time.time()
 
-    epsilon, best_alpha = privacy_engine.get_privacy_spent()
+    epsilon, best_alpha = privacy_engine.get_privacy_spent() # final epsilon
 
     print(
         f"Train Accuracy: {top1.avg:.3f}\t"
