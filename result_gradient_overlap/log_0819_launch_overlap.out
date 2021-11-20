@@ -1,0 +1,588 @@
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/1/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/1/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  80.00007471161317 %
+Overlap-12 = 0.047608
+Overlap-21 = 0.040472
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/2/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/2/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  63.99983563445102 %
+Overlap-12 = 0.055164
+Overlap-21 = 0.076718
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/3/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/3/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  51.19986850756082 %
+Overlap-12 = 0.043525
+Overlap-21 = 0.059428
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/4/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/4/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  40.959894806048645 %
+Overlap-12 = 0.031160
+Overlap-21 = 0.055244
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/5/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/5/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  32.768139979678445 %
+Overlap-12 = 0.037088
+Overlap-21 = 0.055527
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/6/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/6/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  26.214437272129576 %
+Overlap-12 = 0.033616
+Overlap-21 = 0.073118
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/7/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/7/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  20.97154981770366 %
+Overlap-12 = 0.032065
+Overlap-21 = 0.065378
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/8/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/8/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  16.77723985416293 %
+Overlap-12 = 0.027872
+Overlap-21 = 0.093674
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/9/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/9/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  13.421941306556695 %
+Overlap-12 = 0.034482
+Overlap-21 = 0.079277
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/10/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/10/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  10.737553045245352 %
+Overlap-12 = 0.027089
+Overlap-21 = 0.066262
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/11/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/11/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  8.589967724583115 %
+Overlap-12 = 0.038316
+Overlap-21 = 0.091312
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/12/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/12/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  6.871974179666484 %
+Overlap-12 = 0.030465
+Overlap-21 = 0.088376
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/13/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/13/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  5.497654055346368 %
+Overlap-12 = 0.051785
+Overlap-21 = 0.091727
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/rp_cifar10_low/14/checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/rp_cifar10_low/14/checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  4.397899109437575 %
+Overlap-12 = 0.031303
+Overlap-21 = 0.101118
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/1checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/1checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  80.00007471161317 %
+Overlap-12 = 0.183359
+Overlap-21 = 0.127559
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/2checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/2checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  64.00020919251688 %
+Overlap-12 = 0.098625
+Overlap-21 = 0.096302
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/3checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/3checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  51.200242065626675 %
+Overlap-12 = 0.079088
+Overlap-21 = 0.112817
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/4checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/4checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  40.96026836411452 %
+Overlap-12 = 0.079344
+Overlap-21 = 0.101192
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/5checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/5checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  32.768139979678445 %
+Overlap-12 = 0.089447
+Overlap-21 = 0.092046
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/6checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/6checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  26.214437272129576 %
+Overlap-12 = 0.080969
+Overlap-21 = 0.092929
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/7checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/7checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  20.97154981770366 %
+Overlap-12 = 0.082035
+Overlap-21 = 0.095998
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/8checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/8checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  16.77723985416293 %
+Overlap-12 = 0.077439
+Overlap-21 = 0.094283
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/9checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/9checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  13.421941306556695 %
+Overlap-12 = 0.074462
+Overlap-21 = 0.085524
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/10checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/10checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  10.737553045245352 %
+Overlap-12 = 0.081102
+Overlap-21 = 0.082303
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/11checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/11checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  8.589967724583115 %
+Overlap-12 = 0.060446
+Overlap-21 = 0.073423
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/12checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/12checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  6.871974179666484 %
+Overlap-12 = 0.056733
+Overlap-21 = 0.072590
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/13checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/13checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  5.497654055346368 %
+Overlap-12 = 0.049581
+Overlap-21 = 0.077347
+Namespace(arch='resnet20s', batch_size=256, data='../data', dataset='cifar10', eval_mode='gradient_overlap', gpu=0, image_number=100, norm='linf', nuc_alpha=0.01568627450980392, nuc_eps=0.03137254901960784, nuc_lambda=0.01, output_file='test.pt', overlap_samples=128, pretrained='../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar', pretrained2='../LTH-base/LT_low_cifar10_resnet20s_seed1/14checkpoint.pth.tar', print_freq=50, sigma=0.05, test_eps=0.03137254901960784, test_gamma=0.03137254901960784, test_randinit_off=True, test_step=1)
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/0checkpoint.pth.tar <===
+* remain weight =  100.0 %
+['gradient_overlap']
+without normalize
+Files already downloaded and verified
+without normalize
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+build model resnet20_cifar
+===> loading weight from ../LTH-base/LT_low_cifar10_resnet20s_seed1/14checkpoint.pth.tar <===
+start unstructured pruning with custom mask
+* remain weight =  4.398272667503433 %
+Overlap-12 = 0.065844
+Overlap-21 = 0.093460
